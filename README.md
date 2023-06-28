@@ -42,7 +42,7 @@
 <p dir="auto" >
 
 <a href="mailto:duygu.calik01@gmail.com">
-<img srcset="https://img.icons8.com/?size=512&amp;id=7rhqrO588QcU&amp;format=png 2x, https://img.icons8.com/?size=512&amp;id=7rhqrO588QcU&amp;format=png 1x" src="https://img.icons8.com/?size=512&amp;id=7rhqrO588QcU&amp;format=png 2x" alt="Mail icon" width="256" height="256" style="width: 256px; height: 256px;"> width="50" height="50"></a>
+<img srcset="https://img.icons8.com/?size=512&amp;id=7rhqrO588QcU&amp;format=png 2x, https://img.icons8.com/?size=512&amp;id=7rhqrO588QcU&amp;format=png 1x" src="https://img.icons8.com/?size=512&amp;id=7rhqrO588QcU&amp;format=png 2x" alt="Mail icon"  width="50" height="50"></a>
 
 <a href="https://www.linkedin.com/in/duygu-%C3%A7al%C4%B1k-1a98611b7/" rel="nofollow">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" srcset="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png 2x" alt="Linkedin, social icon - Free download on Iconfinder" class="d-block mx-auto" width="50" height="50"></a>
